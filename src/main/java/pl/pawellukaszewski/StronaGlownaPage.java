@@ -45,6 +45,8 @@ public class StronaGlownaPage extends WebPageMethods {
         clickLoginButoon.click();
     }
 
+
+
     public void clickLogOutButton() {
         clickElement(clickLogOut);
     }
@@ -57,6 +59,4 @@ public class StronaGlownaPage extends WebPageMethods {
 //        clickLoginButoon.click();
 //
 //    }
-
-
 }
